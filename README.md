@@ -2,7 +2,7 @@
 
 💻 Desenvolvedora em formação  
 🔄 Transição de carreira para tecnologia  
-📚 Estudante – 
+📚 Estudante 
 
 ---
 
@@ -27,6 +27,7 @@ Este perfil documenta meus estudos, projetos e evolução prática.
 
 ## 📚 Em aprendizado contínuo
 
+- Analista de dados - Estácio de Sá
 - Lógica de Programação  
 - Fundamentos de Desenvolvimento
 - Git e GitHub  
